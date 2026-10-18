@@ -1,4 +1,15 @@
-# standard documentation
+# SOFTWARE DOCUMENTATION
+| FIELD          | VALUE                |
+|:----------------:|:------------------:|
+|SOFTWARE NAME  |                       |
+|VERSION        |                       |
+|ENGINEER(S)    |                       |
+|DATE INITIATED |    DD MON YYYY                   |
+|LANGUAGE(S)    |                       |
+|TARGET ENVIRONMENT|                    |
+|DEVELOPMENT STATUS| (REQUIREMENTS) DESIGN IMPLEMENTATION TESTING MAINTENANCE|
+
+
 
 ## USER DOCUMENTATION
 
@@ -7,7 +18,7 @@
 - EXPLAIN WHAT SYSTEM DOES
 
 ### INSTALLATION MANUAL
-- LIST REQUIREMENTS 
+- LIST REQUIREMENTS FOR INSTALLTION
 - EXPLAIN HOW TO INSTALL
 - USE ANNOTATION SCREEN SHOTS
 
