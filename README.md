@@ -45,14 +45,24 @@ NOT APPLICABLE. SYSTEM GOVERNANCE IS DEFINED BY ADMINISTRATOR'S ORGANIZATION BUS
 
 ### 2B SYSTEM ARCHITECTURE MANUAL
 
+#### DESCRIPTION
+Plain text description here.
+
+#### FILE ARCHITECTURE
+
 '''INSERT FILE TREE HERE'''
 
 ### 2C SYSTEM DECOMPOSITION MANUAL
 
 | PROGRAM       | PURPOSE              | FUNCTIONS                | CLASSES      | LIBRARIES             |
 |:-------------|:---------------------|:--------------------------|:------------|:----------------------|
-|example.py|Provides examples for documentation.| examples(), lookup()| Examples| hashlib, math|
+|example.py|Provides examples for documentation.| examples(num), lookup()| Examples, Nav| hashlib, math|
 
+#### UNIT DESCRIPTION MANUAL
+
+|UNIT|FUNCTIONAL DESCRIPTION                                                                                                  |
+|:-------------|:-------------------------------------------------------------------------------------------------------------|
+|example(num)|example(num) takes and integer argument and returns an example.
 
 
 
