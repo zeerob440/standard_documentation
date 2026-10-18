@@ -5,6 +5,7 @@
 |VERSION        |                       |
 |ENGINEER(S)    |                       |
 |DATE INITIATED |    DD MON YYYY                   |
+|DATE ACCEPTED  | DD MON YYYY           |
 |LANGUAGE(S)    |                       |
 |TARGET ENVIRONMENT|                    |
 |DEVELOPMENT STATUS| (REQUIREMENTS) DESIGN IMPLEMENTATION TESTING MAINTENANCE|
@@ -31,7 +32,6 @@
 - DESCRIBE ALL SYSTEM FACULTIES TO USER AND HOW TO USE THEM
 
 
-
 ### 1E SYSTEM ADMINISTRATORS MANUAL
 
 - DESCRIBE SYSTEM HOUSEKEEPING TASKS
@@ -42,6 +42,7 @@ NOT APPLICABLE. SYSTEM GOVERNANCE IS DEFINED BY ADMINISTRATOR'S ORGANIZATION BUS
 ## 2 SYSTEM DOCUMENTATION
 
 ### 2A SYSTEM DEPENDENCIES MANUAL
+ - LIST DEPENDENCIES 
 
 ### 2B SYSTEM ARCHITECTURE MANUAL
 
@@ -50,7 +51,7 @@ Plain text description here.
 
 #### DIRECTORY ARCHITECTURE
 
-``````text
+```text
 example_project_name/
 ├── README.md
 ├── docs/
@@ -62,7 +63,7 @@ example_project_name/
 │   └── utilities.py
 └── tests/
     └── test_main.py
-``````
+```
 
 ### 2C SYSTEM DECOMPOSITION MANUAL
 
