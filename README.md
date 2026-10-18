@@ -50,7 +50,7 @@ NOT APPLICABLE. SYSTEM GOVERNANCE IS DEFINED BY ADMINISTRATOR'S ORGANIZATION BUS
 ### 2C SYSTEM DECOMPOSITION MANUAL
 
 | PROGRAM       | PURPOSE              | FUNCTIONS                | CLASSES      | LIBRARIES             |
-|:-------------|:---------------------_|:--------------------------|:------------|:----------------------|
+|:-------------|:---------------------|:--------------------------|:------------|:----------------------|
 |example.py|Provides examples for documentation.| examples(), lookup()| Examples| hashlib, math|
 
 
