@@ -48,9 +48,21 @@ NOT APPLICABLE. SYSTEM GOVERNANCE IS DEFINED BY ADMINISTRATOR'S ORGANIZATION BUS
 #### DESCRIPTION
 Plain text description here.
 
-#### FILE ARCHITECTURE
+#### DIRECTORY ARCHITECTURE
 
-'''INSERT FILE TREE HERE'''
+``````text
+example_project_name/
+├── README.md
+├── docs/
+│   ├── installation_manual.md
+│   ├── user_manual.md
+│   └── system_manual.md
+├── src/
+│   ├── main.py
+│   └── utilities.py
+└── tests/
+    └── test_main.py
+``````
 
 ### 2C SYSTEM DECOMPOSITION MANUAL
 
@@ -62,8 +74,13 @@ Plain text description here.
 
 |UNIT|FUNCTIONAL DESCRIPTION                                                                                                  |
 |:-------------|:-------------------------------------------------------------------------------------------------------------|
-|example(num)|example(num) takes and integer argument and returns an example.
+|example(num)|example(num) takes and integer argument and returns an example.|
 
+### 2D REQUIREMENTS SPECIFICATION & TEST MANUAL
+
+|REQUIREMENT SPECIFICATION|TEST NAME|TEST SPECIFICATION                         |FUNCTIONS AS DESIGNED DATE|
+|:------------------------|:--------|:------------------------------------------|:-------------------------|
+|The system only accepts military time.| T1 MILTIME| Test all inputs for miltime with invalid entries.| 26 APR 1979|
 
 
 
