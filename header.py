@@ -40,7 +40,7 @@ describe in simple terms how to use the software here
 1E SYSTEM ADMINISTRATORS' MANUAL
 
 describe housekeeping tasks
-describe maintenence procedures
+describe maintenance procedures
 - IF ADMIN NOT REQUIRED
 NOT APPLICABLE. SYSTEM GOVERNANCE IS DEFINED BY ADMINISTRATOR'S ORGANIZATION BUSINESS RULES.
 -------------------------------------------------------------------------------------------------------------
