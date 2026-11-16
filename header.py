@@ -18,7 +18,7 @@ Proudly Engineered by _____ on DD MM YYYY
 
 describe what the software does here
 
-1B INSTALLATION MANUAL
+1B INSTALLATION 
 
     SYSTEM REQUIREMENTS
     

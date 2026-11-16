@@ -20,9 +20,13 @@
 
 ### 1B INSTALLATION MANUAL
 
+#### REQUIREMENTS
+
 - LIST REQUIREMENTS FOR INSTALLATION
 - list known requirements
-- explain installation process
+
+#### INSTALLATION 
+- list installation process
 - use annotated screenshots
 
 ### 1C INTRODUCTORY MANUAL
