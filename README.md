@@ -19,9 +19,11 @@
 - EXPLAIN WHAT SYSTEM DOES
 
 ### 1B INSTALLATION MANUAL
+
 - LIST REQUIREMENTS FOR INSTALLATION
-- EXPLAIN HOW TO INSTALL
-- USE ANNOTATION SCREEN SHOTS
+- list known requirements
+- explain installation process
+- use annotated screenshots
 
 ### 1C INTRODUCTORY MANUAL
 
@@ -30,6 +32,9 @@
 
 ### 1D REFERENCE MANUAL
 - DESCRIBE ALL SYSTEM FACULTIES TO USER AND HOW TO USE THEM
+- FEATURE
+- HOW TO USE IT
+annotated screenshots as needed
 
 
 ### 1E SYSTEM ADMINISTRATORS MANUAL
@@ -79,9 +84,9 @@ example_project_name/
 
 ### 2D REQUIREMENTS SPECIFICATION & TEST MANUAL
 
-|REQUIREMENT SPECIFICATION|TEST NAME|TEST SPECIFICATION                         |FUNCTIONS AS DESIGNED DATE|
-|:------------------------|:--------|:------------------------------------------|:-------------------------|
-|The system only accepts military time.| T1 MILTIME| Test all inputs for miltime with invalid entries.| 26 APR 1979|
+|REQUIREMENT |SPECIFICATION|TEST NAME|TEST SPECIFICATION|FUNCTIONS AS DESIGNED DATE|
+|:-------------------------|:---------------------------------------|:--------|:------------------------------------------|:------------|
+|The system only accepts military time.|specification to meet req| T1 MILTIME| Test all inputs for miltime | 26 APR 1979|
 
 
 
