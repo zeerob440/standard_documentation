@@ -76,7 +76,7 @@ example_project_name/
 
 ### 2C SYSTEM DECOMPOSITION MANUAL
 
-| PROGRAM       | PURPOSE              | FUNCTIONS                | CLASSES      | LIBRARIES             |
+| PROGRAM       | PURPOSE              | FUNCTIONS                | CLASSES      | IMPORTS             |
 |:-------------|:---------------------|:--------------------------|:------------|:----------------------|
 |example.py|Provides examples for documentation.| examples(num), lookup()| Examples, Nav| hashlib, math|
 
